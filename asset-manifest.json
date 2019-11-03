@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stardb-react-app/static/css/main.7499e78a.chunk.css",
+    "main.js": "/stardb-react-app/static/js/main.5270f1b2.chunk.js",
+    "main.js.map": "/stardb-react-app/static/js/main.5270f1b2.chunk.js.map",
+    "runtime~main.js": "/stardb-react-app/static/js/runtime~main.c79d4c8f.js",
+    "runtime~main.js.map": "/stardb-react-app/static/js/runtime~main.c79d4c8f.js.map",
+    "static/js/2.e68e8170.chunk.js": "/stardb-react-app/static/js/2.e68e8170.chunk.js",
+    "static/js/2.e68e8170.chunk.js.map": "/stardb-react-app/static/js/2.e68e8170.chunk.js.map",
+    "index.html": "/stardb-react-app/index.html",
+    "precache-manifest.1b3f5f8cf625027690200902cef315ef.js": "/stardb-react-app/precache-manifest.1b3f5f8cf625027690200902cef315ef.js",
+    "service-worker.js": "/stardb-react-app/service-worker.js",
+    "static/css/main.7499e78a.chunk.css.map": "/stardb-react-app/static/css/main.7499e78a.chunk.css.map",
+    "static/media/deathStar.png": "/stardb-react-app/static/media/deathStar.5733d356.png"
+  }
+}
